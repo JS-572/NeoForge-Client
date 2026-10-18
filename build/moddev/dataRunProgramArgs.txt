@@ -1,0 +1,17 @@
+# Main Class
+net.neoforged.fml.startup.DataClient
+
+# NeoForge Run-Type Program Arguments
+--assetIndex
+34
+--assetsDir
+C:\\Users\\thuya\\.gradle\\caches\\neoformruntime\\assets
+
+# User Supplied Program Arguments
+--mod
+random
+--all
+--output
+C:\\Users\\thuya\\Downloads\\NeoForge-Client\\src\\generated\\resources
+--existing
+C:\\Users\\thuya\\Downloads\\NeoForge-Client\\src\\main\\resources
